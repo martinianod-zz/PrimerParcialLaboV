@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">primer.parcial</string>
+
+    <string name="username">Usuario </string>
+
+    <string name="password">Contraseña </string>
+
+    <string name="repeat_password">Repita la contraseña </string>
+
+    <string name="type">Tipo: </string>
+
+    <string name="save">Guardar </string>
+
+</resources>

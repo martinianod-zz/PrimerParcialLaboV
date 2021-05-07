@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">first.parcial</string>
+
+    <string name="username">User </string>
+
+    <string name="password">Password </string>
+
+    <string name="repeat_password">Repeat password </string>
+
+    <string name="type">Type: </string>
+
+    <string name="save">Save </string>
+
+</resources>
